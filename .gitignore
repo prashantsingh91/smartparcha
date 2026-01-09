@@ -48,3 +48,24 @@ Thumbs.db
 *.tmp
 *.temp
 
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+
+# Misc
+=0.24.0
