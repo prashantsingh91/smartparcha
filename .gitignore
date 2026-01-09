@@ -69,3 +69,6 @@ venv/
 
 # Misc
 =0.24.0
+
+# Frontend directory (not used - embedded HTML in app.py)
+frontend/
